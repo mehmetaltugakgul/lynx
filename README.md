@@ -2,7 +2,7 @@
 
 Lynx is designed to be a simple links page powered by [Hugo](https://gohugo.io). It's built using Tailwind CSS and inspired by services like LinkTree.
 
-🌏 [Demo site](https://jpanther.github.io/lynx/)  
+🌏 [Demo site](https://mehmetaltugakgul.github.io/lynx/)  
 🐛 [Bug reports & issues](https://github.com/jpanther/lynx/issues)  
 💡 [Questions & feature requests](https://github.com/jpanther/lynx/discussions)
 
